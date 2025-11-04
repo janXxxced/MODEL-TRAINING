@@ -13,7 +13,7 @@ By analyzing redness, inflammation, and lesion texture, the model predicts the s
 ---
 
 ## 🚀 Features
-- 🧠 **MobileNetV2** deep learning architecture  
+- 🧠 **DENSENET 121 ** deep learning architecture  
 - 🧩 Data augmentation for better generalization  
 - ⚖️ Class weighting for imbalanced dataset  
 - 📊 Evaluation metrics: Accuracy, Precision, Recall, F1-Score, ROC-AUC  
