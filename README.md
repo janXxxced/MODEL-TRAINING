@@ -1,7 +1,7 @@
-# 🦟 Insect Bite Classification using CNN (MobileNetV2)
+# 🦟 Insect Bite Classification using CNN (DENSENET 121)
 
 A Convolutional Neural Network (CNN)-based system for detecting and classifying **insect bites on human skin images**.  
-This project uses **MobileNetV2** architecture trained on a custom dataset to classify the **severity** of bites (Mild, Moderate, Severe).  
+This project uses **DENSENET 121** architecture trained on a custom dataset to classify the **severity** of bites (Mild, Moderate, Severe).  
 Developed using **TensorFlow** and **Google Colab** as part of the **EARIST Extension Research Project**.
 
 ---
